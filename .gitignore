@@ -1,0 +1,4 @@
+venv/
+git add_pycache__/
+*.pyc
+
